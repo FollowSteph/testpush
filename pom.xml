@@ -6,7 +6,7 @@
     <!-- Project from https://start.vaadin.com/project/217e745f-f498-4d8f-bf7f-2750e03ba010 -->
     <groupId>com.example</groupId>
     <artifactId>test-push</artifactId>
-    <name>test-push</name>
+    <name>testPush</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
